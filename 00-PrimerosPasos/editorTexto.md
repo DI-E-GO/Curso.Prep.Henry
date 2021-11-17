@@ -79,7 +79,7 @@ Allí,  presionamos el botón Download para almacenarlo en nuestra computadora.
 
 ## En Windows:
 
-Una vez finalizada la descarga, hacemos doble click en el instalador y esperamos a que finalice el proceso de instalación.
+Una vez finalizada la descarga, hacemos double click en el instalador y esperamos a que finalice el proceso de instalación.
 
 
 ## En Ubuntu y derivados:
