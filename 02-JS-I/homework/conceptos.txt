@@ -1,0 +1,5 @@
+* Variables: son los que contienen un valor determinado y se puede usar cuantas veces sea necesario en el codigo el cual estemos trabajando, pueden o no cambiar de estado o valor dependiendo de como lo denominemos
+* Strings: son valores de tipo cadena de caracteres que se distingen por estar entre comillas
+* Funciones (argumentos, `return`): las funciones tienen un nombre y resuelven problemas especificos, las cuales pueden o no tener argumentos, los argumentos son enviados dentro de un parentecis, tambien tiene una llave de inicio y cierre de nuestra funcion, por ultimo dentro de las llaves puede o no, retornarnos algo con el retun 
+* Declaraciones `if`: un if(condision) nos condiciona el resultado que consultamos dentro de sus parentesis, puede ser verdadero o falso, tambien contien un 'else' el cual si no se cumple la condicion del 'if' podemos retornar otro resultado
+* Valores booleanos (`true`, `false`): son valores de dos estados verdadero o falso, sirven para comprobar en que estado se encuentra algo
