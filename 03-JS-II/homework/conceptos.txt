@@ -1,0 +1,2 @@
+* `for`: es un statement que nos permite crear un bucle repetitivo definiendo el alcance de repeticiones en sus parentecis, que requiere una variable de inicio con un valor, un valor de final de repeticiones y un contador que nos permite ir incrementando para lograr llegar a las cantidades de repeticiones buscada
+* `&&`, `||`, `!`: los operadores logicos nos permiten obtener un valor verdadero o falso entre un o mas comparaciones siguiendo la regla de la tabla de verdad que vemos en Logicas matematicas
