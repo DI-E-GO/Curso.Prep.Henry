@@ -1,0 +1,3 @@
+*Arrays: los arreglos en javascript son contenedores de elementos de distintos tipos de datos, desde numeros enteros hasta funciones, se pueden representar de la siguiente manera 'array=[ ]' como array o arreglo vacío
+Se pueden haceder mediante un indice de pocicionamiento dentro de sus corchetes (arreglo[indice]) y tambien puden ser asignado en un indice dado(arreglo[indice]=valor)
+a su vez tiene sus metodos de agregar(arreglo.push(valor)) y borrar el ultimo elemento de la lista(arreglo.pop())
