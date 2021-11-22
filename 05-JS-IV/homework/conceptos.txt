@@ -1,0 +1,6 @@
+* Objetos: los objetos son contenedores de propiedades de diversos tipos de datos a los cuales se pueden acceder por notacion de puntos o notacion de corchetes indicando el nombre de la propiedad del objeto
+* Propiedades: las propiedades de un objeto son capases de contener distintos tipos de datos que van de un numero entero hasta metodos
+* Métodos: se denominan metodos a las funciones guardadas en un objeto las cuales tienen las mismas caracteristicas que una function()
+* Bucle `for…in`: este bucle recorre las propiedades de un objeto mediante una clave y nos devuelve su valor mediante corchetes y adentro la clave
+* Notación de puntos vs notación de corchetes: la notacion con puntos nos permiten acceder a los valores del objetos mas facilmente aunque debe ser literal al nombre de la propiedad del objeto no se puede cambiar ni usar una variable,
+ mientras que por notacion de corchetes o brackerts se usaria para intercalar o recorrer un objeto es necesairio usar esta opcion
