@@ -1,0 +1,2 @@
+* `prototype`: cada clase tiene por defecto una forma de establecer un metodo una sola vez y es el 'prototype', un ejemplo seia Class.prototype.oneFunction = function(){return true}
+* _Constructors_ (de Clases): nos sirven como planillas al crear un nuevo objeto asi evitamos copiar el codigo una y mil veces creando objeto con las mismas caracteristicas
