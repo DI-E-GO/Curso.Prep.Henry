@@ -19,3 +19,17 @@ img{
 li{
     list-style: none;
 }
+#fotoPerfil{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+.des_personal{
+    width: 50%;
+}
+.cv{
+    padding-left: 2rem;
+}
+.titulo{
+    text-align: center;
+}
